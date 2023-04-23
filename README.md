@@ -1,11 +1,11 @@
 # Ball
 3D game - tutorial
 
-This is a game made by tutorial from YouTube.
-Thanks to this game, I learned the issues of graphics and 3D physics.
-Unfortunatelly I do not have code (just .exe) so please forgive me for the in-game sounds because I created this game several months ago.
+This is a game made from a YouTube tutorial.
+Thanks to this game I learned about 3D graphics and physics.
+Unfortunately I don't have the code (only .exe) so please forgive me for the sounds in the game, as I created the game a few months ago.
 
-#The project includes:
+# The project includes:
 - Game physics
 - Score system
 - User interface
