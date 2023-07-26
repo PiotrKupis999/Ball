@@ -11,3 +11,5 @@ Unfortunately I don't have the code (only .exe) so please forgive me for the sou
 - User interface
 - Sounds
 - Multiple levels
+
+Ball.mp4 shows how the game works.
